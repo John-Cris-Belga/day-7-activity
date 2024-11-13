@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: darkblue;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
